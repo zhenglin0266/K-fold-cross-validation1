@@ -1,1 +1,1 @@
-# K-fold-cross-validation1
+Perform simulations to compare K-fold cross-validation with the variant where, in each round (still K rounds total) a proportion of 1/K of the data is chosen at random to play the role of validation set and the rest the role of training set. Do so in the context of choosing the degrees of freedom for smoothing splines. Test your function on the synthetic dataset generated as in the Part 10 code. The comparison will be based on prediction error. Leave a validation set aside for that purpose.
